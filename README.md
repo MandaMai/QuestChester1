@@ -26,7 +26,11 @@ Say what the step will be
 ```
 Give the example
 ```
-Will want to run ./mvnw clean install to clean the install periodically
+Will want to run the following command to ensure a clean install
+```
+./mvnw clean install 
+```
+to clean the install periodically
 And repeat until builds correctly (no errors)
 
 ```
@@ -63,7 +67,7 @@ Run the following command to get site up and running
 java -jar Quest-Portal/target/Quest-Portal-0.0.1.jar (version number may change over time)
 
 Then in browser, go to 
-[localhost:8080](localhost:8080) - the local environment the site is run on
+* [localhost:8080](localhost:8080) - the local environment the site is run on
 
 ## Built With
 
