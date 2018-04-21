@@ -2,8 +2,7 @@
 
 One Paragraph of project description goes here<br />
 
-This project was started using the tutorial found at this url:<br />
-https://shekhargulati.com/2017/11/08/a-minimalist-guide-to-building-spring-boot-angular-5-applications/
+
 
 ## Getting Started
 
@@ -23,11 +22,12 @@ A step by step series of examples that tell you have to get a development env ru
 
 Say what the step will be
 
+
 ```
 Give the example
 ```
-
-And repeat
+Will want to run ./mvnw clean install to clean the install periodically
+And repeat until builds correctly (no errors)
 
 ```
 until finished
@@ -59,6 +59,12 @@ Give an example
 
 Add additional notes about how to deploy this on a live system
 
+Run the following command to get site up and running
+java -jar Quest-Portal/target/Quest-Portal-0.0.1.jar (version number may change over time)
+
+Then in browser, go to 
+[localhost:8080](localhost:8080) - the local environment the site is run on
+
 ## Built With
 
 * [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
@@ -88,4 +94,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Hat tip to anyone who's code was used
 * Inspiration
 * etc
-
+This project was started using the tutorial found at this url:<br />
+https://shekhargulati.com/2017/11/08/a-minimalist-guide-to-building-spring-boot-angular-5-applications/
