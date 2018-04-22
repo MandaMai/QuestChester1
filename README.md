@@ -78,6 +78,12 @@ Then in browser, go to
 * [Karma](https://angular.io/) - Front-End Testing Runtime
 * [JUnit](https://angular.io/) - Back-End Testing
 
+## PostGreSQL Running and Queries
+### pgAdmin4
+* Using pgAdmin4 for Database management monitoring.
+* [Data types and software documentation](https://www.postgresql.org/docs/current/static/index.html) - Existing Postgres Documentation
+* Installed with PostGreSQL install.
+
 ## Contributing
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
