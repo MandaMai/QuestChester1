@@ -84,28 +84,25 @@ Then in browser, go to
 * [Data types and software documentation](https://www.postgresql.org/docs/current/static/index.html) - Existing Postgres Documentation
 * Installed with PostGreSQL install.
 
-## Contributing
+## Contributing - OUTLINE PULL REQUEST METHOD WITH A TEAM? AT LEAST SUBMISSION PROCESS FOR PROJECT
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read  MAYBE MAKE IT A DOCUMENT DEPENDING ON SIZE for details on our code of conduct, and the process for submitting pull requests to us.
 
-## Versioning
+## Versioning - NOT SURE WILL BE USING THIS
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Amanda Maifeld** - *Initial work* - [MandaMai](https://github.com/MandaMai)
+Additional contributors will be listed in the future if added to the project.
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
-
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
-This project was started using the tutorial found at this url:<br />
-https://shekhargulati.com/2017/11/08/a-minimalist-guide-to-building-spring-boot-angular-5-applications/
+* Starting From the Bottom Up
+**This project was started using the tutorial found [here](https://shekhargulati.com/2017/11/08/a-minimalist-guide-to-building-spring-boot-angular-5-applications/).  This tutorial helped me get off the ground with a brand new and clean application without any extraneous files.  
+* Idea for Content and Subject Matter
+** This project's insiration was Chris Hardwick's book The Nerdist Way which can be found on Amazon [here](https://www.amazon.com/Nerdist-Way-Reach-Next-Level/dp/0425243540}.
