@@ -105,4 +105,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ### Starting From the Bottom Up
 * This project was started using the tutorial found [here](https://shekhargulati.com/2017/11/08/a-minimalist-guide-to-building-spring-boot-angular-5-applications/).  This tutorial helped me get off the ground with a brand new and clean application without any extraneous files.  
 ### Idea for Content and Subject Matter
-* This project's insiration was Chris Hardwick's book The Nerdist Way which can be found on Amazon [here](https://www.amazon.com/Nerdist-Way-Reach-Next-Level/dp/0425243540}.
+* This project's insiration was Chris Hardwick's book The Nerdist Way: How to Reach the Next Level (In Real Life).
+* The book can be found on [Amazon](https://www.amazon.com/Nerdist-Way-Reach-Next-Level/dp/0425243540/) or any other bookseller online or in the store.
