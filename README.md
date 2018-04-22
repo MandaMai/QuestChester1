@@ -64,7 +64,9 @@ Give an example
 Add additional notes about how to deploy this on a live system
 
 Run the following command to get site up and running
+```
 java -jar Quest-Portal/target/Quest-Portal-0.0.1.jar (version number may change over time)
+```
 
 Then in browser, go to 
 [localhost:8080](http://localhost:8080/) - The web framework used
