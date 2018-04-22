@@ -1,14 +1,14 @@
-# QuestChester
+# QuestChester - NEED DESCRIPTION
 
 One Paragraph of project description goes here<br />
 
 
 
-## Getting Started
+## Getting Started - NEED GENERAL DESCRIPTION OF WHAT IS BEING DONE FOR SETUP
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-### Prerequisites
+### Prerequisites - NEED INFO FROM TUTORIAL FOR SOFTWARE DEPENDENCIES
 
 What things you need to install the software and how to install them
 
@@ -16,25 +16,26 @@ What things you need to install the software and how to install them
 Give examples
 ```
 
-### Installing
+### Installing - MORE NOTES ON HOW TO INSTALL SOFTWARE DEPENDENCIES
 
 A step by step series of examples that tell you have to get a development env running
 
-Run the following command to ensure a clean install
-```
-./mvnw clean install 
-```
-Should Receive BUILD SUCCESS if application is working appropriately.
-This will rebuild the jar file that will be used to start application.
 
 End with an example of getting some data out of the system or using it for a little demo
 
-## Running the tests
+## Running the tests - NEED TO ADD TESTS AND FIGURE OUT HOW TO RUN THEM
 
 Explain how to run the automated tests for this system<br />
 NEED TESTS
 
-### Break down into end to end tests
+### Jasmine/Karma Tests - NEED HIGH LEVEL DESCRIPTION AND DETAILS ABOUT HOW RUN THROUGH BOOT SCRIPTING
+These are already being run through boot
+Explain what these tests test and why
+
+```
+Give an example
+```
+### JUnit Tests - NEED TO FIGURE OUT HOW TO GET THESE TO RUN ON BOOT
 
 Explain what these tests test and why
 
@@ -42,7 +43,7 @@ Explain what these tests test and why
 Give an example
 ```
 
-### And coding style tests
+### And coding style tests - NO IDEA WHAT THESE ARE OR HOW TO ADD THEM
 
 Explain what these tests test and why
 
@@ -51,7 +52,13 @@ Give an example
 ```
 
 ## Deployment
-
+Run the following command to ensure a clean install
+```
+./mvnw clean install 
+```
+Should Receive BUILD SUCCESS if application is working appropriately.
+This will rebuild the jar file that will be used to start application.
+<br />
 Run the following command to get site up and running
 ```
 java -jar Quest-Portal/target/Quest-Portal-0.0.1.jar (version number may change over time)
@@ -62,9 +69,14 @@ Then in browser, go to
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+* [Spring Boot](https://projects.spring.io/spring-boot/) - The Back-End
+* [H2](http://www.h2database.com/html/main.html) - H2 Database
+* [PostGreSQL](https://www.postgresql.org/) - PostGreSQL
 * [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Angular 5](https://angular.io/) - Angular 5 for Front-End/UI
+* [Jasmine](https://angular.io/) - Front-End Testing Script
+* [Karma](https://angular.io/) - Front-End Testing Runtime
+* [JUnit](https://angular.io/) - Back-End Testing
 
 ## Contributing
 
