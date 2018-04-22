@@ -20,28 +20,19 @@ Give examples
 
 A step by step series of examples that tell you have to get a development env running
 
-Say what the step will be
-
-
-```
-Give the example
-```
-Will want to run the following command to ensure a clean install
+Run the following command to ensure a clean install
 ```
 ./mvnw clean install 
 ```
-to clean the install periodically
-And repeat until builds correctly (no errors)
-
-```
-until finished
-```
+Should Receive BUILD SUCCESS if application is working appropriately.
+This will rebuild the jar file that will be used to start application.
 
 End with an example of getting some data out of the system or using it for a little demo
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
+Explain how to run the automated tests for this system<br />
+NEED TESTS
 
 ### Break down into end to end tests
 
@@ -61,13 +52,11 @@ Give an example
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
-
 Run the following command to get site up and running
 ```
 java -jar Quest-Portal/target/Quest-Portal-0.0.1.jar (version number may change over time)
 ```
-
+<br />
 Then in browser, go to 
 [localhost:8080](http://localhost:8080/) - The web framework used
 
