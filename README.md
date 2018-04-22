@@ -94,7 +94,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Amanda Maifeld** - *Initial work* - [MandaMai](https://github.com/MandaMai)
+* **Amanda Maifeld** - *Initial work* - [MandaMai](https://github.com/MandaMai)<br /><br />
 Additional contributors will be listed in the future if added to the project.
 
 ## License
